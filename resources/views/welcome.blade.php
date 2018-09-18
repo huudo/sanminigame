@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Gia sư VIP
+                    SĂN MINI GAME
                 </div>
 
                 <div class="links">
